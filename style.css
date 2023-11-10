@@ -1,0 +1,27 @@
+.photo-top{
+    width: 100%;
+}
+.photo-top img{
+    width: 100%;
+}
+main{
+    width: 70%;
+    margin: auto;
+}
+h1{
+    font-family: 'Source Code Pro';
+    text-align: center;
+}
+p{
+    font-family: 'Play';
+    text-align: center;
+}
+.photo-line{
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+}
+.photo-line img{
+    border-radius: 10px;
+    width: 32%;
+}
