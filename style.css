@@ -22,6 +22,5 @@ p{
     display: flex;
 }
 .photo-line img{
-    border-radius: 10px;
     width: 32%;
 }
